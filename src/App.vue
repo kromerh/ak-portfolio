@@ -170,13 +170,13 @@
           <div class="subheading mb-3">Languages</div>
           <ul class="fa-ul mb-0">
             <li>
-              <i class="fa-li fa fa-check"></i> German (native language)</i> </li>
+              <i class="fa-li fa fa-check"></i> German (native language) </li>
             <li>
-              <i class="fa-li fa fa-check"></i>English (C1)</i></li>
+              <i class="fa-li fa fa-check"></i> English (C1)</li>
             <li>
-              <i class="fa-li fa fa-check"></i> Latin (Latinum)</i></li>
+              <i class="fa-li fa fa-check"></i> Latin (Latinum)</li>
             <li>
-              <i class="fa-li fa fa-check"></i> French (A2)</i></li>
+              <i class="fa-li fa fa-check"></i> French (A2)</li>
 
           </ul>
           <br>
@@ -209,7 +209,8 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a Master student and expanding my skillset with eLearning courses on ..., I enjoy most of my time being physically active in the nature with running and biking as well as hiking in beautiful landscapes. Throughout the year I follow various workouts in addition to inline skating.</p>
+          <p>Apart from being a Master student and expanding my skillset with eLearning courses on ..., I enjoy most of my time being physically active in the
+          nature with running and biking as well as hiking in beautiful landscapes. Throughout the year I follow various workouts in addition to inline skating. </p>
           <p class="mb-0">When forced indoors, I enjoy a good book and I follow a number of podcasts to explore the latest technology advancements in data science, critical thinking, or self improvement strategies. I am an aspiring chef, and I spend a large amount of my free time trying out new recipes.</p>
         </div>
       </section>
@@ -220,7 +221,7 @@
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              <p>...</p>
+              <p>To be updated</p>
             </li>
 
           </ul>
