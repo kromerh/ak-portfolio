@@ -108,8 +108,7 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Albert-Ludwigs University in Freiburg im Breisgau, Germany</h3>
-              <div class="subheading mb-3">Master of Science in Business Adinistration</div>
-              <p> </p>
+              <div class="subheading mb-3">Master of Science in Business Administration</div>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">October 2017 - Present</span>
@@ -142,7 +141,7 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Albert-Ludwigs University in Freiburg im Breisgau, Germany</h3>
               <div class="subheading mb-3">Bachelor of Science in Economics</div>
-              <p>Final Grade: 1.3 with distiction very good </p>
+              <p>Final Grade: 1.3 with distinction very good </p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">October 2014 - August 2017</span>
@@ -199,6 +198,9 @@
               <i class="fa-li fa fa-check"></i>
               R Studio</li>
             <li>
+               <i class="fa-li fa fa-check"></i>
+              SPSS</li>
+            <li>
               <i class="fa-li fa fa-check"></i>
               IBM Watson</li>
           </ul>
@@ -209,12 +211,10 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
-          <p>Apart from being a Master student and expanding my skillset with eLearning courses on ..., I enjoy most of my time being physically active in the
-          nature with running and biking as well as hiking in beautiful landscapes. Throughout the year I follow various workouts in addition to inline skating. </p>
-          <p class="mb-0">When forced indoors, I enjoy a good book and I follow a number of podcasts to explore the latest technology advancements in data science, critical thinking, or self improvement strategies. I am an aspiring chef, and I spend a large amount of my free time trying out new recipes.</p>
+          <p>Apart from being a Master student and expanding my skillset with eLearning courses, I enjoy most of my time being physically active in the nature with running and biking as well as hiking in beautiful landscapes. Throughout the year I follow various workouts in addition to inline skating. </p>
+          <p class="mb-0">When forced indoors, I enjoy a good book and I follow a number of podcasts on critical thinking or self improvement strategies. I am an aspiring chef, and I spend a large amount of my free time trying out new recipes.</p>
         </div>
       </section>
-
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
           <h2 class="mb-5">Awards &amp; Certifications</h2>
@@ -253,14 +253,14 @@ export default {
         {
           position: 'Tutor for Mathematics and Microeconomics',
           company: 'Albert-Ludwigs University Freiburg, Germany',
-          description: 'Preparing and leading teaching supportive exercises for students, independent preparation and execution of exam preparation courses supervision and correction of exams, mentoring',
+          description: 'Preparing and leading teaching supportive exercises for students, independent preparation and execution of exam preparation courses, supervision and correction of exams, mentoring',
           startDate: 'November 2015',
           endDate: 'Present'
         },
         {
           position: 'Marketing Intern',
           company: 'Chilcotin Holidays in Gold Bridge, Canada',
-          description: 'Creating and communicating packages for client trips in the Chilcotin Mountains.',
+          description: 'Creating and communicating packages for client trips in the Chilcotin Mountains',
           startDate: 'August 2015',
           endDate: 'September 2015'
         }
