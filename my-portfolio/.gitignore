@@ -1,6 +1,6 @@
 .DS_Store
-my-portfolio/node_modules/
-my-portfolio/dist/
+node_modules/
+/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

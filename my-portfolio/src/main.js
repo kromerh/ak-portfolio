@@ -1,11 +1,9 @@
 import Vue from 'vue'
 import App from './App'
 import jquery from 'jquery'
-require('./assets/resume.css')
-
 require('bootstrap')
 require('jquery.easing')
-
+require('./assets/resume.css')
 require('../node_modules/bootstrap/dist/css/bootstrap.css')
 require('../node_modules/devicons/css/devicons.css')
 require('../node_modules/devicon-2.2/devicon.css')
