@@ -4,7 +4,7 @@
       <a class="navbar-brand js-scroll-trigger" href="#about">
         <span class="d-block d-lg-none">Alexandra Kromer</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="./assets/profile.png" alt="">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="./assets/profile.jpeg" alt="">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -177,7 +177,6 @@
               <i class="fa-li fa fa-check"></i> Latin (Latinum)</i></li>
             <li>
               <i class="fa-li fa fa-check"></i> French (A2)</i></li>
-            <li>
 
           </ul>
           <br>
@@ -221,9 +220,8 @@
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-trophy text-warning"></i>
-              ...
-              <p>
-              <li>
+              <p>...</p>
+            </li>
 
           </ul>
         </div>
